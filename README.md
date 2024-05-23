@@ -13,3 +13,9 @@ It plays the optimal move each turn.
 
 ### Play a Friend!:  
 This mode lets two users play against each other.  
+
+# Install  
+Download the files as well as the requirements listed.  
+
+# Run
+Run main.py and navigate using the GUI.
